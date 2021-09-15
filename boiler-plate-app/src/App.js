@@ -4,7 +4,7 @@ import './index.css';
 
 const App = () => {
   return (
-    <div className="webCrawlerApp" data-testid="webCrawlerApp">
+    <div className="App" data-testid="App">
       <Components />
     </div>
   );
