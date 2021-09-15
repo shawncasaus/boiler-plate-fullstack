@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This is the front end component for URL Web Crawler App
+# Getting Started with BoilerPlate React App
 
 ## Available Scripts
 
